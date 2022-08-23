@@ -208,6 +208,9 @@ h1{
     height: 400px;
 }
 
+.imagenContenido_cajas:hover{
+    transform:scale(2,2) 
+}
 /* footer con redes*/
 
 .barramenuFooter{
