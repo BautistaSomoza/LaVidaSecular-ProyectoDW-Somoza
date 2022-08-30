@@ -133,7 +133,7 @@ body{
 
 /* Trabajo Grilla Index*/    
 .grilla_index {
-    display: grid;
+    display: grid ;
     grid-template-columns: 1fr,1fr;
     grid-template-rows: 1fr,2fr,2fr,2fr;
     grid-template-areas: 

@@ -19,6 +19,14 @@ main div div div{
 .fondo-navbar{
     background-color: #decfac;
 }
+.albumContainer{
+    display: flex;
+    align-items: center;
+    padding: 2%,2%,2%,2%;
+}
+.albumesGrillas{
+    align-content: center;
+}
 @media(max-width: 480px){
     .cuerpoSuperior{
         display: none;
